@@ -1,0 +1,35 @@
+img{
+    width: 150px;
+    height: 150px;
+    
+    
+}
+body{
+    background-color: black;
+    color: pink;
+}
+
+ul{ 
+        display: flex;
+    justify-content: center;
+    
+list-style: none;
+}
+li {
+    border: 1px solid black;
+    padding: 10px;
+    color: pink;
+}
+li:hover{
+   color: #000;
+    background-color:  pink;
+
+}
+
+a{
+    color: black;
+}
+
+li{
+    list-style: none;
+}
